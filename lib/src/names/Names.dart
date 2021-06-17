@@ -1,0 +1,1 @@
+const primaryTitle= 'First App';

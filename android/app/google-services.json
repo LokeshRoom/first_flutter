@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56084946327",
+    "project_id": "first-project-lokesh",
+    "storage_bucket": "first-project-lokesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56084946327:android:67cbb69a6969bf4262b8d2",
+        "android_client_info": {
+          "package_name": "org.lokeshltd.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56084946327-8frmmb3aa3t8e0itc63nsm1n9m2ibm1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFOCfiZkIyDD3G0Y71gt2ciVfTAA0x1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56084946327-8frmmb3aa3t8e0itc63nsm1n9m2ibm1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
